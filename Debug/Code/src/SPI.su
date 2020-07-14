@@ -1,0 +1,6 @@
+SPI.c:8:6:SPI1_Init	4	static
+SPI.c:37:6:SPI2_Init	4	static
+SPI.c:65:6:SPI1_DMA_Send	16	static
+SPI.c:87:6:SPI1_DMA_Receive	16	static
+SPI.c:141:6:SPI2_DMA_Send	16	static
+SPI.c:163:6:SPI2_DMA_Receive	16	static

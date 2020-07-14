@@ -1,0 +1,16 @@
+BMI160tim.c:20:6:BMI160_Init	8	static
+BMI160tim.c:55:6:BMI160_Self_Test_Acc	8	static
+BMI160tim.c:68:6:BMI160_Acc_Raw	32	static
+BMI160tim.c:77:6:BMI160_Gyr_Raw	32	static
+BMI160tim.c:86:6:BMI160_Gyr_deg_sek	40	static
+BMI160tim.c:99:6:BMI160_BMM150_Raw	32	static
+BMI160tim.c:108:6:BMI160_Roll_Pitch	32	static
+BMI160tim.c:124:6:BMI160_Acc_Offset	24	static
+BMI160tim.c:133:6:BMI160_Gyro_Offset	32	static
+BMI160tim.c:142:10:BMI160_Time	24	static
+BMI160tim.c:151:9:BMI160_Read8	24	static
+BMI160tim.c:183:8:BMI160_Read8int	24	static
+BMI160tim.c:214:9:BMI160_Write8	16	static
+BMI160tim.c:234:9:BMI160_getMagGyroAcc	56	static
+BMI160tim.c:276:9:MSBtoLSB	32	static
+BMI160tim.c:321:6:Sdelay	24	static

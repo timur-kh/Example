@@ -1,0 +1,4 @@
+UART.c:6:6:UART3_Init	4	static
+UART.c:15:6:UART3_Send	16	static
+UART.c:20:6:UART3_Send_String	24	static
+UART.c:27:6:UART3_Send_Number_Float	152	static

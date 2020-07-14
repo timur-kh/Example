@@ -1,0 +1,4 @@
+BMM150.c:11:6:BMM150_Init	8	static
+BMM150.c:27:9:BMM150_Read8	24	static
+BMM150.c:59:8:BMM150_Read8int	24	static
+BMM150.c:90:9:BMM150_Write8	16	static
